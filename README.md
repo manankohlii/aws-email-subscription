@@ -1,1 +1,1 @@
-# aws-email-subscription
+# aws-email-subscriptions
